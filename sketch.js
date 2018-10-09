@@ -3,6 +3,7 @@ function preload() {
 }
 var diameter;
 var angle = 0;
+
 function setup() {
   // put setup code here
   createCanvas(windowWidth, windowHeight);
